@@ -1,0 +1,11 @@
+F:\programing\worck\GlobalLogic\TestTaskForDodNetTrainee\TestTaskForDodNetTrainee\bin\Debug\TestTaskForDodNetTrainee.exe.config
+F:\programing\worck\GlobalLogic\TestTaskForDodNetTrainee\TestTaskForDodNetTrainee\bin\Debug\TestTaskForDodNetTrainee.exe
+F:\programing\worck\GlobalLogic\TestTaskForDodNetTrainee\TestTaskForDodNetTrainee\bin\Debug\TestTaskForDodNetTrainee.pdb
+F:\programing\worck\GlobalLogic\TestTaskForDodNetTrainee\TestTaskForDodNetTrainee\bin\Debug\CopiLibrary.dll
+F:\programing\worck\GlobalLogic\TestTaskForDodNetTrainee\TestTaskForDodNetTrainee\bin\Debug\CopiLibrary.pdb
+F:\programing\worck\GlobalLogic\TestTaskForDodNetTrainee\TestTaskForDodNetTrainee\obj\Debug\TestTaskForDodNetTrainee.csprojResolveAssemblyReference.cache
+F:\programing\worck\GlobalLogic\TestTaskForDodNetTrainee\TestTaskForDodNetTrainee\obj\Debug\TestTaskForDodNetTrainee.Form1.resources
+F:\programing\worck\GlobalLogic\TestTaskForDodNetTrainee\TestTaskForDodNetTrainee\obj\Debug\TestTaskForDodNetTrainee.Properties.Resources.resources
+F:\programing\worck\GlobalLogic\TestTaskForDodNetTrainee\TestTaskForDodNetTrainee\obj\Debug\TestTaskForDodNetTrainee.csproj.GenerateResource.Cache
+F:\programing\worck\GlobalLogic\TestTaskForDodNetTrainee\TestTaskForDodNetTrainee\obj\Debug\TestTaskForDodNetTrainee.exe
+F:\programing\worck\GlobalLogic\TestTaskForDodNetTrainee\TestTaskForDodNetTrainee\obj\Debug\TestTaskForDodNetTrainee.pdb

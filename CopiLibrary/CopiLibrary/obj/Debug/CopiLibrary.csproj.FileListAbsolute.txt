@@ -1,0 +1,5 @@
+F:\programing\worck\GlobalLogic\CopiLibrary\CopiLibrary\bin\Debug\CopiLibrary.dll
+F:\programing\worck\GlobalLogic\CopiLibrary\CopiLibrary\bin\Debug\CopiLibrary.pdb
+F:\programing\worck\GlobalLogic\CopiLibrary\CopiLibrary\obj\Debug\CopiLibrary.dll
+F:\programing\worck\GlobalLogic\CopiLibrary\CopiLibrary\obj\Debug\CopiLibrary.pdb
+F:\programing\worck\GlobalLogic\CopiLibrary\CopiLibrary\bin\Debug\CopiLibrary.XML

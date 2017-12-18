@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CopiLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:CopiLibrary.MyReader">
+            <summary>
+            Клас, який запаковує папку з файлами і підпапками в один файл
+            </summary>
+        </member>
+        <member name="M:CopiLibrary.MyReader.Read(System.String,System.String)">
+            <summary>
+            Метод створює file.dat 
+            </summary>
+            <param name="path"></param>
+            <param name="path2"></param>
+        </member>
+        <member name="T:CopiLibrary.MyWriter">
+            <summary>
+            Клас, який розпаковує файл file.dat
+            </summary>
+        </member>
+        <member name="M:CopiLibrary.MyWriter.Write(System.String,System.String)">
+            <summary>
+            Метод який з file.dat робить папки з файлами
+            </summary>
+            <param name="path"></param>
+            <param name="path2"></param>
+        </member>
+    </members>
+</doc>
